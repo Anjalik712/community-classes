@@ -1,2 +1,1 @@
-# community-classes
-community class op
+Community Class OP
